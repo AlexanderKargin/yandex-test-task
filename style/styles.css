@@ -1,0 +1,87 @@
+@font-face {
+    font-family: YandexSansRegular;
+    src: url("fonts/Yandex Sans Display-Regular.ttf");
+}
+
+body{
+    background-color: #fed002;
+    max-width: 720px;
+    min-width: 720px;
+    margin: 0 auto;
+}
+
+.poster{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+.yandex::first-letter{
+    color: #e41f13;
+}
+
+.yandex{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 20px;
+    padding: 30px 30px;
+    margin-top: 80px;
+    max-width: 50px;
+    transform: scale(1, 1.7);
+
+}
+
+.course{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 60px;
+    padding: 0 30px;
+    margin-top: 15px;
+}
+
+.info{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 30px;
+    padding: 0 30px;
+}
+
+.list{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 14px;
+    padding: 0 30px;
+    float: left;
+}
+
+.classes{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 14px;
+    padding: 0 30px;
+    float: right;
+}
+
+.for-whom{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 14px;
+    padding: 0 30px;
+    margin-top: 15px;
+    float: right;
+}
+
+.meeting{
+    font-family: YandexSansRegular, sans-serif;
+    font-size: 14px;
+    padding: 0 30px;
+    margin-top: 190px;
+}
+
+.img{
+    margin-top: 75px;
+    width: 720px;
+}
+
+.image{
+    width: 720px;
+}
+
+ul{
+    padding: 0;
+    margin-left: 15px;
+}
