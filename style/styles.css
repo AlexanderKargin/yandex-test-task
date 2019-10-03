@@ -7,6 +7,7 @@ body{
     background-color: #fed002;
     max-width: 720px;
     min-width: 720px;
+    max-height: 900px;
     margin: 0 auto;
 }
 
@@ -67,17 +68,19 @@ body{
 
 .meeting{
     font-family: YandexSansRegular, sans-serif;
+    max-width: 50%;
+    float: left;
     font-size: 14px;
     padding: 0 30px;
-    margin-top: 190px;
+    margin-top: 30px;
 }
 
 .img{
-    margin-top: 75px;
     width: 720px;
 }
 
 .image{
+    margin-top: 120px;
     width: 720px;
 }
 
